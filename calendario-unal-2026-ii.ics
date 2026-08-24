@@ -1,0 +1,936 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UNAL Medicina 2026-II//Calendar//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UNAL Medicina 2026-II
+X-WR-CALDESC:Parasitología (sesiones martes y miércoles 14:00-16:00) y ev
+ aluaciones de Patología. Periodo 2026-II\, Bogotá.
+X-WR-TIMEZONE:America/Bogota
+BEGIN:VTIMEZONE
+TZID:America/Bogota
+X-LIC-LOCATION:America/Bogota
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+TZNAME:-05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:s01a@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260811T140000
+DTEND;TZID=America/Bogota:20260811T143000
+SUMMARY:📘 Parasitología · S1 Inauguración
+DESCRIPTION:Inauguración del curso. Presentación de los docentes. Revisi
+ ón del programa\, normatividad y contenidos. Vías de comunicación. Obje
+ to de estudio de la parasitología.\nDocente: Prof. María Clara Echeverry
+ .\nCampus: https://micampus.unal.edu.co/
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s01b@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260811T143000
+DTEND;TZID=America/Bogota:20260811T160000
+SUMMARY:📘 Parasitología · S1 Evolución de ciclos biológicos
+DESCRIPTION:Evolución de ciclos biológicos.\nDocente: Prof. Vladimir Corr
+ edor.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s02@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260812T140000
+DTEND;TZID=America/Bogota:20260812T160000
+SUMMARY:📘 Parasitología · S2 Generalidades sobre las parasitosis
+DESCRIPTION:Relación hospedero-parásito\, glosario de términos médicos.
+  Infección/enfermedad. Síndromes clínicos.\nDocente: Prof. Angélica Kn
+ udson.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s03@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260818T140000
+DTEND;TZID=America/Bogota:20260818T160000
+SUMMARY:📘 Parasitología · S3 Leishmaniasis
+DESCRIPTION:Protozoarios transmitidos por vectores: leishmaniasis. Ciclos b
+ iológicos\, epidemiología\, relación hospedero–parásito\, patogénes
+ is\, patología\, cuadros clínicos\, diagnóstico\, tratamiento\, control
+ .\nDocente: Prof. María Clara Echeverry.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s04@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260819T140000
+DTEND;TZID=America/Bogota:20260819T160000
+SUMMARY:📘 Parasitología · S4 Enfermedad de Chagas
+DESCRIPTION:Protozoarios transmitidos por vectores: enfermedad de Chagas. C
+ iclo biológico y epidemiología. Relación hospedero–parásito\, patog
+ énesis\, patología\, cuadros clínicos\, diagnóstico\, tratamiento\, co
+ ntrol.\nDocentes: Prof. María Clara Echeverry y Dr. Sergio Velasco (invit
+ ado).
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s05@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260825T140000
+DTEND;TZID=America/Bogota:20260825T160000
+SUMMARY:🔴 Parasitología · S5 PRÁCTICA CALIFICABLE Trypanosoma y Leish
+ mania
+DESCRIPTION:Práctica de laboratorio calificable: Trypanosoma y Leishmania.
+ \nDocentes: María Clara Echeverry\, Yulieth Alexandra Upegui\, Patricia R
+ eyes\, Angélica Knudson\, Martha Quiñonez.\nLlevar bata. Sin comida ni b
+ ebida. Guantes si hay especímenes clínicos.\nPrácticas de laboratorio =
+  20% del curso.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s06@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260826T140000
+DTEND;TZID=America/Bogota:20260826T160000
+SUMMARY:📘 Parasitología · S6 Vectores de Trypanosoma y Leishmania
+DESCRIPTION:Vectores de Trypanosoma y Leishmania.\nDocente: Prof. Martha Qu
+ iñones.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s07@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260901T140000
+DTEND;TZID=America/Bogota:20260901T160000
+SUMMARY:📘 Parasitología · S7 Accidente ofídico
+DESCRIPTION:Accidente ofídico. Cuadros clínicos. Accidentes por animales 
+ venenosos: generalidades\, morfología\, epidemiología\, fisiopatología 
+ y cuadros clínicos.\nDocente: Prof. Javier Rodríguez.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s08@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260902T140000
+DTEND;TZID=America/Bogota:20260902T160000
+SUMMARY:📘 Parasitología · S8 Práctica fauna venenosa y ofídico
+DESCRIPTION:Práctica de integración básica–clínica. Accidentes por fa
+ una venenosa y accidente ofídico.\nDocentes: Javier Rodríguez\, Yulieth 
+ Alexandra Upegui\, Patricia Reyes\, Angélica Knudson.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s09@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260908T140000
+DTEND;TZID=America/Bogota:20260908T160000
+SUMMARY:📘 Parasitología · S9 Apicomplexa
+DESCRIPTION:Introducción a las características biológicas de parásitos 
+ del orden Apicomplexa que infectan a humanos.\nDocente: Yulieth Alexandra 
+ Upegui.\nHorario no explícito en el programa\; se usa el horario regular 
+ 14:00–16:00.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s10@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260909T140000
+DTEND;TZID=America/Bogota:20260909T160000
+SUMMARY:📘 Parasitología · S10 Toxoplasmosis I
+DESCRIPTION:Toxoplasmosis I. Ciclo biológico y epidemiología: relación h
+ ospedero-parásito\, patogénesis\, patología y diagnóstico de laborator
+ io.\nDocente: Prof. Yulieth Alexandra Upegui.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s11@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260915T140000
+DTEND;TZID=America/Bogota:20260915T160000
+SUMMARY:📘 Parasitología · S11 Toxoplasmosis II
+DESCRIPTION:Toxoplasmosis II. Presentación clínica. Casos clínicos de di
+ agnóstico.\nDocente: Prof. Patricia Reyes.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s12@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260916T140000
+DTEND;TZID=America/Bogota:20260916T160000
+SUMMARY:📘 Parasitología · S12 Parásitos oportunistas
+DESCRIPTION:Parásitos oportunistas: ciclo biológico y epidemiología\, re
+ lación hospedero-parásito\, patogénesis\, patología\, cuadros clínico
+ s\, diagnóstico y prevención.\nDocentes: Patricia Reyes y Yulieth Upegui
+ .
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s13@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260922T140000
+DTEND;TZID=America/Bogota:20260922T160000
+SUMMARY:🔴 Parasitología · S13 PRÁCTICA CALIFICABLE Apicomplexa
+DESCRIPTION:Práctica calificable sobre Apicomplexa y parásitos oportunist
+ as.\nDocentes: Yulieth Alexandra Upegui\, Patricia Reyes\, Angélica Knuds
+ on.\nPrácticas de laboratorio = 20% del curso.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s14@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260923T140000
+DTEND;TZID=America/Bogota:20260923T160000
+SUMMARY:🔴 Parasitología · PRIMER PARCIAL (15%)
+DESCRIPTION:PRIMER PARCIAL (15%). Todos los contenidos revisados hasta la f
+ echa.\nSin dispositivos electrónicos (tablet\, smartwatch\, audífonos).
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s15@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260929T140000
+DTEND;TZID=America/Bogota:20260929T160000
+SUMMARY:🔴 Parasitología · S15 TALLER CALIFICABLE Apicomplexa
+DESCRIPTION:Taller calificable sobre Apicomplexa y parásitos oportunistas.
+ \nDocentes: Yulieth Alexandra Upegui\, Patricia Reyes\, Angélica Knudson 
+ y Dr. José Camilo Alvarez (invitado).\nTalleres = 10% del curso.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s16@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260930T140000
+DTEND;TZID=America/Bogota:20260930T160000
+SUMMARY:📘 Parasitología · S16 Ciclo biológico de la malaria
+DESCRIPTION:Ciclo biológico de la malaria y patogénesis.\nDocente: profes
+ or invitado.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s17@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261006T140000
+DTEND;TZID=America/Bogota:20261006T160000
+SUMMARY:📘 Parasitología · S17 Malaria clínica
+DESCRIPTION:Malaria: compromiso clínico\, diagnóstico y tratamiento.\nDoc
+ ente: Angélica Knudson.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s18@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261007T140000
+DTEND;TZID=America/Bogota:20261007T160000
+SUMMARY:📘 Parasitología · S18 Vectores y eliminación de la malaria
+DESCRIPTION:Vectores y programa de eliminación de la malaria.\nDocente: Ma
+ rtha Lucía Quiñones.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s19@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261013T140000
+DTEND;TZID=America/Bogota:20261013T160000
+SUMMARY:📘 Parasitología · S19 Práctica de malaria
+DESCRIPTION:Práctica de malaria.\nDocentes: María Clara Echeverry\, Yulie
+ th Alexandra Upegui\, Patricia Reyes\, Angélica Knudson\, Martha Quiñone
+ z.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s20@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261014T140000
+DTEND;TZID=America/Bogota:20261014T160000
+SUMMARY:🔴 Parasitología · S20 PRÁCTICA CALIFICABLE de malaria
+DESCRIPTION:Práctica calificable de malaria.\nDocentes: María Clara Echev
+ erry\, Yulieth Alexandra Upegui\, Patricia Reyes\, Angélica Knudson\, Mar
+ tha Quiñonez.\nPrácticas de laboratorio = 20% del curso.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s21@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261020T140000
+DTEND;TZID=America/Bogota:20261020T160000
+SUMMARY:🔴 Parasitología · SEGUNDO PARCIAL (15%)
+DESCRIPTION:SEGUNDO PARCIAL (15%): todos los contenidos revisados entre el 
+ parcial 1 y la sesión 20 del curso.\nSin dispositivos electrónicos.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s22@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261021T140000
+DTEND;TZID=America/Bogota:20261021T160000
+SUMMARY:📘 Parasitología · S22 Protozoos intestinales I
+DESCRIPTION:Generalidades de los protozoos. Entamoeba histolytica\, Blastoc
+ ystis sp\, Balantidium coli: ciclos biológicos\, patología\, relación h
+ ospedero-parásito\, cuadros clínicos\, tratamiento\, prevención.\nDocen
+ te: Prof. Yulieth Upegui.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s23@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261027T140000
+DTEND;TZID=America/Bogota:20261027T160000
+SUMMARY:📘 Parasitología · S23 Protozoos intestinales II
+DESCRIPTION:Giardia\, amibas de vida libre. Ciclos biológicos\, patología
+ \, relación hospedero-parásito\, cuadros clínicos\, tratamiento\, preve
+ nción.\nDocente: Prof. Patricia Reyes.\nNota: el mismo día hay parcial d
+ e Patología a las 8:00 a.m.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s24@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261028T140000
+DTEND;TZID=America/Bogota:20261028T160000
+SUMMARY:📘 Parasitología · S24 Práctica de protozoos
+DESCRIPTION:Práctica de protozoos (intestinales y parásitos intestinales 
+ oportunistas). Diagnóstico e identificación de especies y de formas para
+ sitarias.\nDocentes: Patricia Reyes\, Angélica Knudson y Yulieth Upegui.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s25@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261103T140000
+DTEND;TZID=America/Bogota:20261103T160000
+SUMMARY:📘 Parasitología · S25 Helmintiasis intestinales I
+DESCRIPTION:Geohelmintiasis. Ciclos biológicos y epidemiología\, patogeni
+ a y patología\, cuadros clínicos\, diagnóstico.\nDocentes: Patricia Rey
+ es y Yulieth Upegui.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s26@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261104T140000
+DTEND;TZID=America/Bogota:20261104T160000
+SUMMARY:📘 Parasitología · S26 Helmintiasis intestinales II
+DESCRIPTION:E. vermicularis\, síndromes de migración larvaria cutánea y 
+ visceral. Eliminación de las geohelmintiasis.\nDocentes: Patricia Reyes y
+  Yulieth Upegui.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s27@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261110T140000
+DTEND;TZID=America/Bogota:20261110T160000
+SUMMARY:📘 Parasitología · S27 Helmintiasis zoonóticas I — trematodo
+ s
+DESCRIPTION:Fasciola hepática\, Paragonimus sp\, Schistosoma mansoni: cicl
+ os biológicos\, epidemiología\, patología\, cuadros clínicos\, diagnó
+ stico\, tratamiento\, control.\nDocente: Prof. Patricia Reyes.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s28@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261111T140000
+DTEND;TZID=America/Bogota:20261111T160000
+SUMMARY:📘 Parasitología · S28 Filariasis
+DESCRIPTION:Ciclos biológicos y epidemiología\, patología\, cuadros clí
+ nicos\, diagnóstico\, prevención\, tratamiento y programa de eliminació
+ n de la oncocercosis en Colombia.\nDocentes: Patricia Reyes y profesor inv
+ itado.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s29@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261117T140000
+DTEND;TZID=America/Bogota:20261117T160000
+SUMMARY:📘 Parasitología · S29 Helmintiasis zoonóticas II — cestodos
+DESCRIPTION:Taenia solium\, Taenia saginata\, Hymenolepis nana\, H. diminut
+ a\, Echinococcus sp: ciclos biológicos\, epidemiología\, patología\, cu
+ adros clínicos\, diagnóstico\, tratamiento\, control.\nDocente: Prof. Pa
+ tricia Reyes.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s30@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261118T140000
+DTEND;TZID=America/Bogota:20261118T160000
+SUMMARY:🔴 Parasitología · S30 Taller diarrea en pediatría
+DESCRIPTION:Taller de integración clínica básica: diarrea en pediatría 
+ I.\nDocentes: Rafael Guerrero\, Mary Isabel Vanegas\, Angélica Knudson y 
+ Patricia Reyes.\nTalleres = 10% del curso.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s31@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261124T140000
+DTEND;TZID=America/Bogota:20261124T160000
+SUMMARY:📘 Parasitología · S31 Práctica helmintiasis y filariasis
+DESCRIPTION:Práctica. Helmintiasis intestinal (geohelmintos\, E. vermicula
+ ris)\, filariasis y helmintiasis zoonóticas.\nDocentes: Yulieth Upegui\, 
+ Patricia Reyes y Angélica Knudson.\nHorario no explícito en el programa\
+ ; se usa el horario regular 14:00–16:00.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Clase
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s32@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261125T140000
+DTEND;TZID=America/Bogota:20261125T160000
+SUMMARY:🔴 Parasitología · TERCER PARCIAL (15%)
+DESCRIPTION:TERCER PARCIAL (15%): todos los contenidos revisados entre las 
+ sesiones 22 y 30.\nHorario no explícito en el programa\; se usa el horari
+ o regular 14:00–16:00.\nSin dispositivos electrónicos.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s33@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261201T140000
+DTEND;TZID=America/Bogota:20261201T160000
+SUMMARY:🔴 Parasitología · S33 PRÁCTICA INTEGRATIVA (10%)
+DESCRIPTION:Práctica integrativa (10%). Integra Epidemiología\, Inmunolog
+ ía\, Microbiología\, Patología\, Parasitología e introducción a la me
+ dicina interna. Casos clínicos e interpretación de pruebas diagnósticas
+ .\nHorario no explícito en el programa\; se usa el horario regular 14:00
+ –16:00.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s34@parasitologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261202T140000
+DTEND;TZID=America/Bogota:20261202T160000
+SUMMARY:🔴 Parasitología · EXAMEN FINAL (15%)
+DESCRIPTION:Examen final. Incluye TODOS los contenidos revisados del curso 
+ (15%).\nHorario no explícito en el programa\; se usa el horario regular 1
+ 4:00–16:00.\nSin dispositivos electrónicos.
+LOCATION:Facultad de Medicina UNAL — Auditorio 313 / Laboratorios 314-315
+  / Salas de informática\, Bogotá
+CATEGORIES:Parasitología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p1@patologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260907T090000
+DTEND;TZID=America/Bogota:20260907T110000
+SUMMARY:🔴 Patología · 1.er parcial teórico-práctico (20%)
+DESCRIPTION:Primer parcial teórico-práctico (20%).\nTemas: Neuropatologí
+ a\, Renal\, Genital masculino.\n14 actividades. Docente: Dr. Franco.
+LOCATION:Patología — lugar por confirmar\, UNAL Bogotá
+CATEGORIES:Patología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p2@patologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20260928T090000
+DTEND;TZID=America/Bogota:20260928T110000
+SUMMARY:🔴 Patología · 2.º parcial teórico-práctico (20%)
+DESCRIPTION:Segundo parcial teórico-práctico (20%).\nTemas: Genital femen
+ ino y seno\, Respiratorio.\n13 actividades. Docente: Dra. Olaya.
+LOCATION:Patología — lugar por confirmar\, UNAL Bogotá
+CATEGORIES:Patología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p3@patologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261027T080000
+DTEND;TZID=America/Bogota:20261027T100000
+SUMMARY:🔴 Patología · 3.er parcial teórico-práctico (23%)
+DESCRIPTION:Tercer parcial teórico-práctico (23%).\nTemas: Digestivo\, Ca
+ rdiovascular.\n16 actividades. Docente: Dra. Roa.\nNota: el mismo día hay
+  clase de Parasitología a las 14:00.
+LOCATION:Patología — lugar por confirmar\, UNAL Bogotá
+CATEGORIES:Patología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p4@patologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261126T080000
+DTEND;TZID=America/Bogota:20261126T100000
+SUMMARY:🔴 Patología · 4.º parcial teórico-práctico (20%)
+DESCRIPTION:Cuarto parcial teórico-práctico (20%).\nTemas: Hematolinfoide
+ \, Endocrino\, Dermatopatología\, Tejidos blandos y osteoarticular.\n14 a
+ ctividades. Docente: Dra. Acosta.
+LOCATION:Patología — lugar por confirmar\, UNAL Bogotá
+CATEGORIES:Patología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p5@patologia-unal-2026ii
+DTSTAMP:20260824T040739Z
+DTSTART;TZID=America/Bogota:20261203T080000
+DTEND;TZID=America/Bogota:20261203T100000
+SUMMARY:🔴 Patología · EXAMEN FINAL teórico (17%)
+DESCRIPTION:Examen final teórico (17%). Todos los temas. 58 actividades.\n
+ Docente: Dra. Roa.
+LOCATION:Patología — lugar por confirmar\, UNAL Bogotá
+CATEGORIES:Patología\,Evaluación
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: evaluación
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 1 hora: evaluación
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

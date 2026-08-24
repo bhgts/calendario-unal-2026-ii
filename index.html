@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UNAL Medicina 2026-II · Calendário</title>
+  <meta name="description" content="Toque uma vez para adicionar todas as aulas de Parasitología e as provas de Patología ao Calendário da Apple." />
+  <style>
+    :root {
+      --ink: #1c1917;
+      --muted: #57534e;
+      --line: #e7e5e4;
+      --bg: #fafaf9;
+      --card: #ffffff;
+      --red: #b42318;
+      --blue: #1d4ed8;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.45;
+    }
+    main {
+      max-width: 42rem;
+      margin: 0 auto;
+      padding: 2.5rem 1.25rem 4rem;
+    }
+    h1 { font-size: 1.65rem; letter-spacing: -0.03em; margin: 0 0 0.4rem; }
+    .lead { color: var(--muted); margin: 0 0 1.5rem; }
+    .actions { display: grid; gap: 0.75rem; margin: 1.5rem 0 2rem; }
+    a.btn {
+      display: block;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 14px;
+      padding: 0.95rem 1rem;
+      font-weight: 650;
+    }
+    a.primary { background: var(--ink); color: #fff; }
+    a.secondary { background: #fff; color: var(--ink); border: 1px solid var(--line); }
+    .howto {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 1rem 1.1rem;
+      margin-bottom: 1.5rem;
+    }
+    .howto h2 { font-size: 0.95rem; margin: 0 0 0.5rem; }
+    .howto ol { margin: 0; padding-left: 1.2rem; color: var(--muted); }
+    .note { font-size: 0.9rem; color: var(--muted); }
+    details {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 0.2rem 1rem 0.8rem;
+      margin-top: 0.75rem;
+    }
+    summary { cursor: pointer; font-weight: 650; padding: 0.8rem 0; }
+    ul { margin: 0; padding-left: 1.15rem; }
+    li { margin: 0.35rem 0; }
+    .exam { color: var(--red); }
+    .cls { color: var(--blue); }
+    footer { margin-top: 2rem; font-size: 0.8rem; color: #a8a29e; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>UNAL Medicina 2026-II</h1>
+    <p class="lead">
+      40 eventos no fuso de Bogotá: todas as sessões de <strong>Parasitología</strong>
+      (terças e quartas, 14h–16h) e as 5 avaliações de <strong>Patología</strong>.
+      Um toque adiciona tudo ao Calendário da Apple.
+    </p>
+
+    <div class="actions">
+      <a class="btn primary" href="calendario-unal-2026-ii.ics">Adicionar ao Calendário da Apple</a>
+      <a class="btn secondary" id="webcal" href="webcal://PLACEHOLDER/calendario-unal-2026-ii.ics">Inscrever no Calendário (atualiza sozinho)</a>
+    </div>
+
+    <div class="howto">
+      <h2>No iPhone</h2>
+      <ol>
+        <li>Toque em <strong>Adicionar ao Calendário da Apple</strong>.</li>
+        <li>O app Calendário abre — escolha <strong>Adicionar todos os eventos</strong>.</li>
+        <li>Pronto. Os 🔴 são provas/práticas calificáveis (lembrete 1 dia e 1 hora antes); os 📘 são aulas (30 min antes).</li>
+      </ol>
+    </div>
+    <div class="howto">
+      <h2>No Mac</h2>
+      <ol>
+        <li>Clique no mesmo botão. O Calendário do macOS importa os 40 eventos.</li>
+        <li>Se pedir um calendário de destino, use o seu calendário pessoal.</li>
+      </ol>
+    </div>
+    <p class="note">
+      É um arquivo .ics, o formato nativo da Apple. Não precisa de conta Google.
+      As sessões 9, 31, 32, 33 e 34 de Parasitología não traziam hora no PDF — usei o horário regular do curso (14:00–16:00).
+      O lugar das provas de Patología ficou como “por confirmar”.
+    </p>
+
+    <details open>
+      <summary>Patología — avaliações</summary>
+      <ul>
+        <li class="exam">7 set · 09:00–11:00 · 1.er parcial (20%) · Dr. Franco · Neuropatología, Renal, Genital masculino</li>
+        <li class="exam">28 set · 09:00–11:00 · 2.º parcial (20%) · Dra. Olaya · Genital femenino y seno, Respiratorio</li>
+        <li class="exam">27 out · 08:00–10:00 · 3.er parcial (23%) · Dra. Roa · Digestivo, Cardiovascular</li>
+        <li class="exam">26 nov · 08:00–10:00 · 4.º parcial (20%) · Dra. Acosta · Hematolinfoide, Endocrino, Dermatopatología, tejidos blandos</li>
+        <li class="exam">3 dez · 08:00–10:00 · Examen final teórico (17%) · Dra. Roa · Todos los temas</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>Parasitología — provas e práticas calificáveis</summary>
+      <ul>
+        <li class="exam">25 ago · S5 Práctica calificable Trypanosoma y Leishmania</li>
+        <li class="exam">22 set · S13 Práctica calificable Apicomplexa</li>
+        <li class="exam">23 set · Primer parcial (15%)</li>
+        <li class="exam">29 set · S15 Taller calificable Apicomplexa</li>
+        <li class="exam">14 out · S20 Práctica calificable de malaria</li>
+        <li class="exam">20 out · Segundo parcial (15%)</li>
+        <li class="exam">18 nov · S30 Taller diarrea en pediatría</li>
+        <li class="exam">25 nov · Tercer parcial (15%)</li>
+        <li class="exam">1 dez · Práctica integrativa (10%)</li>
+        <li class="exam">2 dez · Examen final (15%)</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>Parasitología — demais sessões (14:00–16:00)</summary>
+      <ul>
+        <li class="cls">11 ago · S1 Inauguración + ciclos biológicos</li>
+        <li class="cls">12 ago · S2 Generalidades</li>
+        <li class="cls">18 ago · S3 Leishmaniasis</li>
+        <li class="cls">19 ago · S4 Chagas</li>
+        <li class="cls">26 ago · S6 Vectores Trypanosoma y Leishmania</li>
+        <li class="cls">1 set · S7 Accidente ofídico</li>
+        <li class="cls">2 set · S8 Práctica fauna venenosa</li>
+        <li class="cls">8 set · S9 Apicomplexa</li>
+        <li class="cls">9 set · S10 Toxoplasmosis I</li>
+        <li class="cls">15 set · S11 Toxoplasmosis II</li>
+        <li class="cls">16 set · S12 Parásitos oportunistas</li>
+        <li class="cls">30 set · S16 Ciclo biológico de la malaria</li>
+        <li class="cls">6 out · S17 Malaria clínica</li>
+        <li class="cls">7 out · S18 Vectores malaria</li>
+        <li class="cls">13 out · S19 Práctica de malaria</li>
+        <li class="cls">21 out · S22 Protozoos intestinales I</li>
+        <li class="cls">27 out · S23 Protozoos intestinales II (mesmo dia do 3.er parcial de Patología, de manhã)</li>
+        <li class="cls">28 out · S24 Práctica de protozoos</li>
+        <li class="cls">3 nov · S25 Helmintiasis intestinales I</li>
+        <li class="cls">4 nov · S26 Helmintiasis intestinales II</li>
+        <li class="cls">10 nov · S27 Trematodos</li>
+        <li class="cls">11 nov · S28 Filariasis</li>
+        <li class="cls">17 nov · S29 Cestodos</li>
+        <li class="cls">24 nov · S31 Práctica helmintiasis</li>
+      </ul>
+    </details>
+
+    <footer>
+      Fonte: Programa académico Parasitología 2026-II (código 2018007) e tabela de evaluaciones de Patología.
+      Horário de Parasitología: martes y miércoles, 2:00–4:00 pm, Facultad de Medicina UNAL, Bogotá.
+    </footer>
+  </main>
+  <script>
+    const host = location.host;
+    if (host) {
+      document.getElementById("webcal").href =
+        "webcal://" + host + location.pathname.replace(/index\.html$/, "") + "calendario-unal-2026-ii.ics";
+    }
+  </script>
+</body>
+</html>
